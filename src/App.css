@@ -1,0 +1,14 @@
+.App {
+    padding: 20px;
+    background-color: hsl(226, 43%, 10%);
+    
+}
+
+@media (min-width:1440px){
+    .App {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
